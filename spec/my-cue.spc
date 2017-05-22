@@ -1,0 +1,4 @@
+$CASESENSITIVE=NO
+$DELIMITERS=!"#$%&'()*+,-.:;<=>?@[\]^_`{|}~
+$LINECOMMENT=REM
+$QUOTATIONMARK1="
